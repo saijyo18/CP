@@ -3,8 +3,8 @@ public class q_1732 {
         int altitude = 0;
         int maxAltitude = 0;
 
-        for (int g : gain) {
-            altitude += g;
+        for (int gn : gain) {
+            altitude += gn;
             maxAltitude = Math.max(maxAltitude, altitude);
         }
 
