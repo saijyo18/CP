@@ -1,3 +1,5 @@
+import java.util.*;
+
 class q_3286 {
     public boolean findSafeWalk(List<List<Integer>> grid, int health) {
         int m = grid.size();
