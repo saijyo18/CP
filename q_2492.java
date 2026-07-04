@@ -1,3 +1,5 @@
+import java.util.*;
+
 class q_2492 {
     List<int[]>[] graph;
     boolean[] vis;
