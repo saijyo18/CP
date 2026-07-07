@@ -1,3 +1,5 @@
+import java.uitl.*;
+
 class q_3754 {
     public long sumAndMultiply(int n) {
         long x = 0;
