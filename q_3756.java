@@ -1,3 +1,5 @@
+import java.util.*;
+
 class q_3756 {
     static final int MOD = 1_000_000_007;
 
