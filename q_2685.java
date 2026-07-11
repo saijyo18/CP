@@ -1,3 +1,5 @@
+import java.util.*;
+
 class q_2685 {
 
     List<Integer>[] graph;
