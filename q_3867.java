@@ -1,3 +1,5 @@
+import java.util.*;
+
 class q_3867 {
     public long gcdSum(int[] nums) {
         int max[] = new int[nums.length];
